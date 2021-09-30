@@ -1,4 +1,4 @@
-# Cryptoverse - Everything you need to know about cryptocurrency and related latest news
+# CryptoWorld - Everything about cryptocurrency
 
 ![CryptoWorld](https://i.ibb.co/8gh5Jc8/image.png)
 
