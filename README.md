@@ -9,6 +9,6 @@ Visit live version of this project [here](https://crypto-world-react.netlify.app
 ![CryptoWorld](https://i.ibb.co/5cbxqK3/crypto1.png)
 ![CryptoWorld](https://i.ibb.co/YTJfQqB/crypto.png)
 
-Setup:
+## Setup:
 
 - run `npm i && npm start` to start the development server
