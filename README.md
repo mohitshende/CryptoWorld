@@ -1,10 +1,13 @@
 # CryptoWorld - Everything about cryptocurrency
 
-![CryptoWorld](https://i.ibb.co/8gh5Jc8/image.png)
-
 ## Introduction
 
 CryptoWorld is a all-in-one platform to read news , see prices, charts and everything about cryptocurrency.
+Visit live version of this project [here](https://crypto-world-react.netlify.app/).
+
+## Project Screenshots
+![CryptoWorld](https://i.ibb.co/5cbxqK3/crypto1.png)
+![CryptoWorld](https://i.ibb.co/YTJfQqB/crypto.png)
 
 Setup:
 
